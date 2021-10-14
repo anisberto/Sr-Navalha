@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Cursos\ADS\Quarto Periodo\FABRICA DE SOFTWARE\Repo do Projeto\Sr-Navalha\Sr-Navalha\Sr-Navalha-Front\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\Cursos\ADS\Quinto Periodo\Fabrica de Software\Sr-Navalha\Sr-Navalha\Sr-Navalha-Front\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
